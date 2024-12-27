@@ -1,5 +1,7 @@
 需要翻墙使用，droid需要单独处理，原文里说规模小好像没用，就没处理了
 
+安装过程应该是一样的，https://github.com/moojink/rlds_dataset_mod/tree/main 
+
 自己搞了一套mix，也可以修改，直接改prepare_open_x.sh的DATASET_TRANSFORMS，不要的注释起来，后面的小数是比例
 
 prepare_bridge.sh 是单独处理bridge的，这个数据集好像更新了，在别的地方下载，所以不需要下载步骤，只需要后处理
