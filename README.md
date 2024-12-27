@@ -13,7 +13,7 @@
 自己搞了一套mix，也可以修改，直接改prepare_open_x.sh的DATASET_TRANSFORMS，不要的注释起来，后面的小数是比例
 
 ps：详细实现可见笔记：https://darren-dong.notion.site/OpenVLA-LLaVA-11a471fbaea480839ee6ca55f122a187?pvs=4
-LLaVA-OV库更改 -> rlds download
+LLaVA-OpenVLA库详细实现 -> rlds download
 
 
 
